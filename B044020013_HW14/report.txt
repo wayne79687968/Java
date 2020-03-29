@@ -1,0 +1,144 @@
+****************************************************************
+Number of employees working as MANAGER are: 3
+****************************************************************
+1. Manager Details:
+Store Details: Level1
+Employee Name: Charles
+Base Pay: $28000.0
+Number of Hours worked: 22.0/hr
+Payment Rate per hour: $327.0/hr
+Total Sales in store: $194870.0
+Sales done: $29414.0
+Percentage of sales done: 15.09%
+Gross Payment: $40473.1
+Remaining store revenue: $119320.3
+Is Charles eligible for promotion? No, he/she is not.
+
+2. Manager Details:
+Store Details: Level1
+Employee Name: Bill
+Base Pay: $28000.0
+Number of Hours worked: 32.0/hr
+Payment Rate per hour: $515.0/hr
+Total Sales in store: $152038.0
+Sales done: $20674.0
+Percentage of sales done: 13.60%
+Gross Payment: $48928.0
+Remaining store revenue: $78783.9
+Is Bill eligible for promotion? No, he/she is not.
+
+3. Manager Details:
+Store Details: Level2
+Employee Name: William
+Base Pay: $29000.0
+Number of Hours worked: 29.0/hr
+Payment Rate per hour: $381.0/hr
+Total Sales in store: $143634.0
+Sales done: $9908.0
+Percentage of sales done: 6.90%
+Gross Payment: $44053.9
+Remaining store revenue: $76598.7
+Is William eligible for promotion? No, he/she is not.
+
+****************************************************************
+Number of employees working as SALES ASSOCIATES are: 9
+****************************************************************
+1. Sales Associate Details:
+Store Details: Level3
+Employee Name: Mark
+Base Pay: $20000.0
+Number of Hours worked: 11.0/hr
+Payment Rate per hour: $285.0/hr
+Sales Rate: 34.0%
+Total commission: $3000.0
+Gross Payment: $26135.0
+Is Mark eligible for promotion? Yes, he/she is.
+
+2. Sales Associate Details:
+Store Details: Level1
+Employee Name: Vincent
+Base Pay: $18000.0
+Number of Hours worked: 18.0/hr
+Payment Rate per hour: $246.0/hr
+Sales Rate: 33.0%
+Total commission: $2700.0
+Gross Payment: $25128.0
+Is Vincent eligible for promotion? Yes, he/she is.
+
+3. Sales Associate Details:
+Store Details: Level1
+Employee Name: Joseph
+Base Pay: $18000.0
+Number of Hours worked: 16.0/hr
+Payment Rate per hour: $193.0/hr
+Sales Rate: 16.0%
+Total commission: $0.0
+Gross Payment: $21088.0
+Is Joseph eligible for promotion? No, he/she is not.
+
+4. Sales Associate Details:
+Store Details: Level3
+Employee Name: James
+Base Pay: $20000.0
+Number of Hours worked: 10.0/hr
+Payment Rate per hour: $259.0/hr
+Sales Rate: 16.0%
+Total commission: $0.0
+Gross Payment: $22590.0
+Is James eligible for promotion? No, he/she is not.
+
+5. Sales Associate Details:
+Store Details: Level2
+Employee Name: Henry
+Base Pay: $19000.0
+Number of Hours worked: 12.0/hr
+Payment Rate per hour: $206.0/hr
+Sales Rate: 38.0%
+Total commission: $2850.0
+Gross Payment: $24322.0
+Is Henry eligible for promotion? No, he/she is not.
+
+6. Sales Associate Details:
+Store Details: Level2
+Employee Name: Gary
+Base Pay: $19000.0
+Number of Hours worked: 19.0/hr
+Payment Rate per hour: $192.0/hr
+Sales Rate: 5.0%
+Total commission: $0.0
+Gross Payment: $22648.0
+Is Gary eligible for promotion? No, he/she is not.
+
+7. Sales Associate Details:
+Store Details: Level2
+Employee Name: Martin
+Base Pay: $19000.0
+Number of Hours worked: 15.0/hr
+Payment Rate per hour: $156.0/hr
+Sales Rate: 5.0%
+Total commission: $0.0
+Gross Payment: $21340.0
+Is Martin eligible for promotion? No, he/she is not.
+
+8. Sales Associate Details:
+Store Details: Level2
+Employee Name: April
+Base Pay: $19000.0
+Number of Hours worked: 18.0/hr
+Payment Rate per hour: $247.0/hr
+Sales Rate: 15.0%
+Total commission: $0.0
+Gross Payment: $23446.0
+Is April eligible for promotion? No, he/she is not.
+
+9. Sales Associate Details:
+Store Details: Level3
+Employee Name: Aaron
+Base Pay: $20000.0
+Number of Hours worked: 19.0/hr
+Payment Rate per hour: $167.0/hr
+Sales Rate: 38.0%
+Total commission: $3000.0
+Gross Payment: $26173.0
+Is Aaron eligible for promotion? Yes, he/she is.
+
